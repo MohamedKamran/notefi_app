@@ -1,16 +1,40 @@
-# notefi
+# Notefi Frontend
 
-A new Flutter project.
+This repository contains the frontend codebase for Notefi, a note-taking application developed during the Hack X Event at NIE, where we were the runner up.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Notefi offers a streamlined interface for managing your notes efficiently. The frontend is designed with React.js, ensuring a responsive and intuitive user experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- User-friendly note creation, editing, and deletion
+- Seamless integration with the backend for real-time synchronization of notes
+- Intuitive user interface with a focus on simplicity and productivity
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+
+To run the Notefi frontend on your local machine, follow these steps:
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/overthinknie/notefi_app.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd notefi
+   ```
+   NOTE: Rename the Directory nodefi_app main to `nodefi`
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the application:
+   ```bash
+   flutter run
+   ```
+## Contributors
+
+- [Mohamed Kamran](https://github.com/mohamedkamran)
+- [Sujeet Kumar](https://www.instagram.com/suhzeet_/)
